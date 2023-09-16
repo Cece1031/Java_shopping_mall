@@ -22,7 +22,4 @@ buildNumber.properties
 **/target/
 .idea
 
-
-
-
 ** /.gitignore
